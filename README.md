@@ -1,16 +1,10 @@
-# quad_btech
+This Flutter application is a movie browsing app that allows users to explore a list of shows retrieved from the TVMaze API. The app includes features such as a splash screen, a home screen showcasing popular shows, a search screen for discovering specific shows, and a details screen providing more information about each selected show.
 
-A new Flutter project.
+Features
+Splash Screen: An initial screen with a themed splash image.
+Home Screen: Displays a list of popular shows with their images, titles, and summaries.
+Search Screen: Allows users to search for specific shows using the TVMaze API.
+Details Screen: Provides detailed information about a selected show, including its image, title, and summary.
+Screenshots
+Include some screenshots or gifs showcasing your app's UI and functionality.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
